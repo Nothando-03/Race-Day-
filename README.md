@@ -22,3 +22,11 @@ The system caters to two primary user roles:
 ## Repository Structure
 
 ```text
+├── .github/
+│   └── workflows/
+│       └── verify-docs.yml    # GitHub Actions workflow for repository structure verification
+├── docs/
+│   ├── ERD.png                # Entity Relationship Diagram
+│   ├── API_Plan.md            # RESTful API Endpoint Specifications
+│   └── schema.sql             # SQL Server database creation and seed script
+└── README.md                  # Project overview and submission details
