@@ -11,11 +11,11 @@ The system caters to two primary user roles:
 
 ## Submission Deliverables
 
-| Deliverable | File Path | Description |
-| :--- | :--- | :--- |
-| **Entity Relationship Diagram (ERD)** | `/docs/ERD.png` | Complete 6-entity data model with primary/foreign keys and cardinality. |
-| **API Endpoint Plan** | `/docs/API_Plan.md` | Comprehensive endpoint mapping table covering all operational routes and roles. |
-| **SQL Database Script** | `/docs/schema.sql` | SSMS-compatible SQL script with table definitions, constraints, and seed data. |
+| Deliverable | Description |
+| :--- | :--- |
+| **Entity Relationship Diagram (ERD)** | Complete 6-entity data model with primary/foreign keys and cardinality. |
+| **API Endpoint Plan** | Comprehensive endpoint mapping table covering all operational routes and roles. |
+| **SQL Database Script** | SSMS-compatible SQL script with table definitions, constraints, and seed data. |
 
 ---
 
