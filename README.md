@@ -1,11 +1,11 @@
-# Race Day Event Management System - Part 1 (POE)
+# Race Day- Part 1 (POE)
 
 ## Project Overview
 Race Day is a comprehensive event management system designed to streamline race event planning and participant registration. This repository contains **Part 1: System Planning and Database**, which establishes the architectural blueprint, database schema, and API specifications prior to application implementation.
 
 The system caters to two primary user roles:
-* **Organiser**: Responsible for creating and managing events, defining event categories, capturing race results, and reviewing event enrolments.
-* **Participant**: Enables users to register accounts, explore upcoming events, enter specific categories, track personal enrolments, and view race results.
+* **Organiser**: Responsible for creating and managing events, defining event categories, capturing race results.
+* **Participant**: Enables users to register accounts, explore upcoming events, enter specific categories, track venues, and view race results.
 
 ---
 
