@@ -1,0 +1,18 @@
+README.md
+
+# RaceDayApi
+
+## Project Overview
+RaceDayApi is an ASP.NET Core Web API solution designed to manage events, participants, categories, enrolments, results, and authentication based on the project requirements[span_0](start_span)[span_0](end_span). The project utilizes Visual Studio and is structured around a C# solution file (`RaceDayApi.sln`) containing the main API project (`RaceDayApi.csproj`)[span_1](start_span)[span_1](end_span).
+
+## Submission Deliverables
+* **Source Code Solution**: The complete Visual Studio solution (`RaceDayApi.sln`) containing all controllers, models, and database context configurations.
+* **API Documentation**: Integrated Swagger support for live testing and verification of endpoints.
+* **Database Implementation**: Entity Framework Core implementation supporting data operations.
+
+## Repository Structure
+```text
+RaceDayApi/
+├── RaceDayApi.sln          # Visual Studio Solution File
+└── RaceDayApi/             # Main API Project Folder
+    └── RaceDayApi.csproj   # C# Project File
